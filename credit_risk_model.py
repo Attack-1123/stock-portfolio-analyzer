@@ -162,7 +162,6 @@ def print_results(lr, rf, scaler, X_test, X_test_s, y_test):
 # ============================================================
 # 4. DASHBOARD
 # ============================================================
-
 def plot_dashboard(lr, rf, scaler, X_test, X_test_s, y_test, feature_names, df):
 
     C = {
